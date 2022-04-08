@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://felixstips.github.io/files/cv.pdf" target="_blank"></a>
+<embed src="https://felixstips.github.io/files/cv.pdf" type="application/pdf"/>
+
 
 
 
