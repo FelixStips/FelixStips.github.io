@@ -84,25 +84,25 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student in Economics"
   location         : "Luxembourg"
-  employer         : "Luxembourg Institute of Socio-Economic Research (LISER)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dQArh0wAAAAJ&hl=de&authuser=1"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "felix.stips@liser.lu"
+  researchgate     : "https://www.researchgate.net/profile/Felix-Stips"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : 
   github           : "https://github.com/FelixStips"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/felix-stips-96358913a/"
   orcid            : "https://orcid.org/0000-0002-0565-2556"
   pinterest        :
   soundcloud       :
