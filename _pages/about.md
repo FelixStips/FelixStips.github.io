@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Felix Stips"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Luxembourg Institute of Socio-Economic Research (LISER) as part of the [ACROSS Doctoral Training Unit](https://sites.google.com/view/fredericdocquier/xingb-blog/across). I work on the "Labour market impacts of human mobility" project supervised by Bertrand Verheyden, Luisito Bertinelli, and Herbert Brücker. I am enrolled in the Doctoral School in Economics and Finance at the University of Luxembourg. 
+I am a PhD candidate in Economics at the Luxembourg Institute of Socio-Economic Research (LISER).
+
+I work on migration and labor economics project supervised by Bertrand Verheyden, Luisito Bertinelli, and Herbert Brücker. I am part of the [ACROSS Doctoral Training Unit](https://sites.google.com/view/fredericdocquier/xingb-blog/across) and enrolled in the Doctoral School in Economics and Finance at the University of Luxembourg. 
 
 
 
