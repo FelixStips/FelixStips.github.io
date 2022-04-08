@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student in Economics"
   location         : "Luxembourg"
-  employer         : "LISER"
+  employer         : #"LISER"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dQArh0wAAAAJ&hl=de&authuser=1"
   email            : "felix.stips@liser.lu"
