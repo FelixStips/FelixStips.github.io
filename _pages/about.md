@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the Luxembourg Institute of Socio-Economic Research (LISER) as part of the [ACROSS Doctoral Training Unit](https://sites.google.com/view/fredericdocquier/xingb-blog/across). I work on the "Labour market impacts of human mobility" project supervised by Bertrand Verheyden, Luisito Bertinelli, and Herbert Brücker. I am enrolled in the Doctoral School in Economics and Finance at the University of Luxembourg. 
 
-For more information, see my <a href="felixstips.github.io/files/cv.pdf" target="_blank">CV.</a>
+For more information, see my <a href="https://felixstips.github.io/files/cv.pdf" target="_blank">CV.</a>
 
 
 
