@@ -16,7 +16,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: <a href="github.com/FelixStips/FelixStips.github.io/blob/master/files/cv.pdf" target="_blank">PDF.</a>
+    url: "github.com/FelixStips/FelixStips.github.io/blob/master/files/cv.pdf"
         
  # - title: "Guide"
  #   url: /markdown/
