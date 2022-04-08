@@ -7,5 +7,5 @@ venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Ungated working paper](https://github.com/FelixStips/FelixStips.github.io/blob/master/files/pune_rct_wp.pdf)
 
