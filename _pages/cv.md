@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<a href="felixstips.github.io/blob/master/files/cv.pdf" target="_blank">PDF.</a>
 
- 
+
+
