@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Felix Stips"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "PhD student in Economics"
+  location         : "Luxembourg"
+  employer         : "Luxembourg Institute of Socio-Economic Research (LISER)"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dQArh0wAAAAJ&hl=de&authuser=1"
   email            :
