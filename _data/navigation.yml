@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /research/
-    
-    - title: "About Me"
-    url: /
 
   - title: "CV"
     url: https://felixstips.github.io/files/cv.pdf
