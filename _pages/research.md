@@ -4,7 +4,7 @@ layout: single
 classes: wide
 permalink: /research/
 ---
-
+<br/> 
 # <center> Published Papers </center>
 
 **Commitment or concealment? Impacts and use of a portable saving device: Evidence from a field experiment in urban India** (with Janina Isabel Steinert, Rucha Vasumati Satish, and Sebastian Vollmer). 2022. *Journal of Economic Behavior and Organization*. 
