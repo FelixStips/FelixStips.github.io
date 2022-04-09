@@ -13,5 +13,9 @@ Abstract: To quantify the impact of a novel “soft” commitment intervention, 
 <small> \[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Paper](https://www-sciencedirect-com.proxy.bnl.lu/science/article/pii/S0167268121004984) | [Ungated WP](http://FelixStips.github.io/files/pune_rct_wp.pdf) | [Data & code](https://osf.io/p8dj5/) | [Pre-analysis Plan](http://FelixStips.github.io/files/pap_pune_rct.pdf)\] </small>
 
 
+**The impact of co-national networks on asylum seekers’ employment: Quasi-experimental evidence from Germany** (with Krisztina Kis-Katos). 2020. *PLoS ONE*. 
 
+<div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract: Using novel registry data on persons receiving asylum welfare benefits in Germany for the period from 2010 to 2016, and quasi-experimental variation induced by German allocation policies, we identify the role that the size and composition of local co-national networks of asylum seekers play for formal labor market access within the same group. While the individual employment probability is not linked to network size, it increases with the number of employed local co-national asylum seekers and decreases with the number of non-employed network members, thereby underlining the central importance of network quality.</small><br><br/></div>
 
+<small> \[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Paper](https://doi.org/10.1371/journal.pone.0236996) | [Older WP](http://FelixStips.github.io/files/dp_networks.pdf) | [Code](http://FelixStips.github.io/files/Stips, Kis-Katos code final.do) \] </small>
