@@ -15,7 +15,7 @@ Abstract: To quantify the impact of a novel “soft” commitment intervention, 
 <small> \[ [Paper](https://www-sciencedirect-com.proxy.bnl.lu/science/article/pii/S0167268121004984) | [Ungated Working Paper](http://FelixStips.github.io/files/pune_rct_wp.pdf) | [Data & Code](https://osf.io/p8dj5/) | [Pre-analysis Plan](http://FelixStips.github.io/files/pap_pune_rct.pdf) \] </small>
 
 
-**The impact of co-national networks on asylum seekers’ employment: Quasi-experimental evidence from Germany** (with Krisztina Kis-Katos). 2020. *PLoS ONE*. 
+**The impact of co-national networks on asylum seekers’ employment: Quasi-experimental evidence from Germany** (with Krisztina Kis-Katos). 2020. *PLOS ONE*. 
 
 <p align="justify"> <small>
 Abstract: Using novel registry data on persons receiving asylum welfare benefits in Germany for the period from 2010 to 2016, and quasi-experimental variation induced by German allocation policies, we identify the role that the size and composition of local co-national networks of asylum seekers play for formal labor market access within the same group. While the individual employment probability is not linked to network size, it increases with the number of employed local co-national asylum seekers and decreases with the number of non-employed network members, thereby underlining the central importance of network quality.</small>  </p> 
