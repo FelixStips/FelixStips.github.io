@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: ""
+title: 
+layout: single
+classes: wide
 permalink: /research/
-author_profile: true
 ---
 
 # <center> Published Papers </center>
