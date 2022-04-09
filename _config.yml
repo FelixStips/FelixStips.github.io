@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dQArh0wAAAAJ&hl=de&authuser=1"
   email            : "felix.stips@liser.lu"
-  researchgate     : #"https://www.researchgate.net/profile/Felix-Stips"
+  researchgate     : "https://www.researchgate.net/profile/Felix-Stips"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       : 
-  github           : #"https://github.com/FelixStips"
+  github           : "https://github.com/FelixStips"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/felix-stips-96358913a/"
+  linkedin         : "https://www.linkedin.com/in/felix-stips-96358913a/"
   orcid            : "https://orcid.org/0000-0002-0565-2556"
   pinterest        :
   soundcloud       :
