@@ -6,7 +6,13 @@ main:
     - title: "About Me"
     url: /
 
- # - title: "Publication"
+  - title: "CV"
+    url: https://felixstips.github.io/files/cv.pdf
+        
+ # - title: "Guide"
+ #   url: /markdown/
+ 
+  # - title: "Publication"
  #   url: /publications/
 
  # - title: "Talks"
@@ -20,9 +26,3 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
-    
-  - title: "CV"
-    url: https://felixstips.github.io/files/cv.pdf
-        
- # - title: "Guide"
- #   url: /markdown/
