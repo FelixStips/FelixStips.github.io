@@ -7,6 +7,21 @@ author_profile: true
 
 # <center> Published Papers </center>
 
+**Cross-border mobility responses to COVID-19 in Europe: new evidence from facebook data** (with Fredérić Docquier, Nicolas Golenvaux, Siegfried Nijssen, and Pierre Schaus). 2022. *Globalization and Health*.
+
+<p align="justify"> <small>
+Abstract:
+Background
+Assessing the impact of government responses to Covid-19 is crucial to contain the pandemic and improve preparedness for future crises. We investigate here the impact of non-pharmaceutical interventions (NPIs) and infection threats on the daily evolution of cross-border movements of people during the Covid-19 pandemic. We use a unique database on Facebook users’ mobility, and rely on regression and machine learning models to identify the role of infection threats and containment policies. Permutation techniques allow us to compare the impact and predictive power of these two categories of variables.
+
+Results
+In contrast with studies on within-border mobility, our models point to a stronger importance of containment policies in explaining changes in cross-border traffic as compared with international travel bans and fears of being infected. The latter are proxied by the numbers of Covid-19 cases and deaths at destination. Although the ranking among coercive policies varies across modelling techniques, containment measures in the destination country (such as cancelling of events, restrictions on internal movements and public gatherings), and school closures in the origin country (influencing parental leaves) have the strongest impacts on cross-border movements.
+
+Conclusion
+While descriptive in nature, our findings have policy-relevant implications. Cross-border movements of people predominantly consist of labor commuting flows and business travels. These economic and essential flows are marginally influenced by the fear of infection and international travel bans. They are mostly governed by the stringency of internal containment policies and the ability to travel.
+</small>  </p> 
+
+
 **Commitment or concealment? Impacts and use of a portable saving device: Evidence from a field experiment in urban India** (with Janina Isabel Steinert, Rucha Vasumati Satish, and Sebastian Vollmer). 2022. *Journal of Economic Behavior and Organization*. 
 
 <p align="justify"> <small>
