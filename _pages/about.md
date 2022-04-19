@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at the [Luxembourg Institute of Socio-Economic Research (LISER)](https://www.liser.lu/) and part of the [ACROSS](https://sites.google.com/view/fredericdocquier/xingb-blog/across) Doctoral Training Unit.
+I am a PhD candidate in Economics at the Luxembourg Institute of Socio-Economic Research ([LISER](https://www.liser.lu/))and part of the [ACROSS](https://sites.google.com/view/fredericdocquier/xingb-blog/across) Doctoral Training Unit.
 
 <p align="justify">
 My research interests are in labor and migration economics, with a focus on the labor market impact of immigration. I have also worked on topics related to development and behavioral economics.
