@@ -41,3 +41,18 @@ Abstract: To quantify the impact of a novel “soft” commitment intervention, 
 Abstract: Using novel registry data on persons receiving asylum welfare benefits in Germany for the period from 2010 to 2016, and quasi-experimental variation induced by German allocation policies, we identify the role that the size and composition of local co-national networks of asylum seekers play for formal labor market access within the same group. While the individual employment probability is not linked to network size, it increases with the number of employed local co-national asylum seekers and decreases with the number of non-employed network members, thereby underlining the central importance of network quality.</small>  </p> 
 
 <small> \[ [Paper](https://doi.org/10.1371/journal.pone.0236996) | [Working Paper](http://FelixStips.github.io/files/dp_networks.pdf) | [Code](http://FelixStips.github.io/files/plosone_final.do) | [Slides](http://FelixStips.github.io/files/slides_networks.pdf) \] </small>
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
