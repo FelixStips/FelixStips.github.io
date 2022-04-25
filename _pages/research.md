@@ -8,10 +8,7 @@ author_profile: true
 # <center> Published Papers </center>
 
 **Cross-border mobility responses to COVID-19 in Europe: new evidence from facebook data** 
-(with Fredérić Docquier, Nicolas Golenvaux, Siegfried Nijssen, and Pierre Schaus). 2022. *Globalization and Health*.
-<br/>
-
-<small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Paper](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00832-6) | [Data & Code](https://doi.org/10.5281/zenodo.4719559) \] </small>
+(with Fredérić Docquier, Nicolas Golenvaux, Siegfried Nijssen, and Pierre Schaus). 2022. *Globalization and Health*. <small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Paper](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00832-6) | [Data & Code](https://doi.org/10.5281/zenodo.4719559) \] </small>
 
 <div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper proposes tools for robust inference in difference-in-differences and event-study designs where the parallel trends assumption may be violated. Instead of requiring that parallel trends holds exactly, we impose restrictions on how different the post-treatment violations of parallel trends can be from the pre-treatment differences in trends ("pre-trends"). The causal parameter of interest is partially identified under these restrictions. We introduce two approaches that guarantee uniformly valid inference under the imposed restrictions, and we derive novel results showing that they have desirable power properties in our context. We illustrate how economic knowledge can inform the restrictions on the possible violations of parallel trends in two economic applications. We also highlight how our approach can be used to conduct sensitivity analyses showing what causal conclusions can be drawn under various restrictions on the possible violations of the parallel trends assumption.
