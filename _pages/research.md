@@ -8,7 +8,7 @@ author_profile: true
 # <center> Published Papers </center>
 
 **Cross-border mobility responses to COVID-19 in Europe: new evidence from facebook data** 
-(with Fredérić Docquier, Nicolas Golenvaux, Siegfried Nijssen, and Pierre Schaus). 2022. *Globalization and Health*. 
+(with Frédéric Docquier, Nicolas Golenvaux, Siegfried Nijssen, and Pierre Schaus). 2022. *Globalization and Health*. 
 <br/>
 <small>[ <a href="#/" onclick="visib('covid')">Abstract</a> | [Paper](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00832-6) | [Data & Code](https://doi.org/10.5281/zenodo.4719559) \] </small>
 
