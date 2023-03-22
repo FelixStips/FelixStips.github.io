@@ -35,7 +35,7 @@ Abstract: Using novel registry data on persons receiving asylum welfare benefits
 
 # <center> Other </center>
 
-**A replication of Jones & Marinescu (2022)** (with Etienne Bacher, Mario Herrera-Rodriguez, and Diego Marino Fages). 2023. Mimeo.
+**A replication of Jones & Marinescu (2022)** (with Etienne Bacher, Mario Herrera-Rodriguez, and Diego Marino Fages). 2023. 
 <br/>
 <small>[ <a href="#/" onclick="visib('alaska')">Abstract</a> | [Draft](https://FelixStips.github.io/files/Oslo_Jones_Marinescu_Replication.pdf) | <a href="https://osf.io/6atfw" target="_blank" >Code</a> \] </small>
 
