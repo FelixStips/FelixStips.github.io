@@ -33,7 +33,14 @@ Abstract: To quantify the impact of a novel “soft” commitment intervention, 
 Abstract: Using novel registry data on persons receiving asylum welfare benefits in Germany for the period from 2010 to 2016, and quasi-experimental variation induced by German allocation policies, we identify the role that the size and composition of local co-national networks of asylum seekers play for formal labor market access within the same group. While the individual employment probability is not linked to network size, it increases with the number of employed local co-national asylum seekers and decreases with the number of non-employed network members, thereby underlining the central importance of network quality.
  </small><br><br/></div>
 
+# <center> Other </center>
 
+**A replication of Jones & Marinescu (2022)** (with Etienne Bacher, Mario Herrera-Rodriguez, and Diego Marino Fages). 2023. Mimeo.
+<br/>
+<small>[ <a href="#/" onclick="visib('alaska')">Abstract</a> | [Draft](https://FelixStips.github.io/files/Oslo_Jones_Marinescu_Replication.pdf) | <a href="https://FelixStips.github.io/files/plosone_final.do" target="_blank" >Code</a>  </small>
+
+<div id="alaska" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract: Jones andMarinescu (2022) study the employment effects of a universal cash transfer in Alaska. Using a synthetic control method, they find that the transfer had no negative effects on employment. We reproduce the results using their replication package and investigate if the results hold when using a different software to run the analysis. We also use different estimation techniques and perform sensitivity checks to assess robustness of the results. We find some differences in the size and significance of the average treatment effects on labor force participation and hours worked when we use a different software (R) and various extensions of the synthetic control method. We also find smaller coefficients on part-time employment when including more covariates. However, these differences do not contradict the main conclusion of the paper. </small><br><br/></div>
 
 [//]: This java script is the button to show abstract
 <script>
