@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Felix. I am a doctoral researcher in Economics at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and at the [Institute for Employment Research](https://iab.de/en/unit/?id=5) (IAB).
+Hi, I'm Felix. I am a PhD candidate in Economics working at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and the [Institute for Employment Research](https://iab.de/en/unit/?id=5) (IAB).
 
 <p align="justify">
 My research interests are in labor and migration economics, with a focus on the labor market impact of immigration. I have also worked on topics related to development and behavioral economics.
