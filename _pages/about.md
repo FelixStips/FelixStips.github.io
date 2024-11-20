@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Felix. I am a PostDoc in the [Migration and International Labour Studies]([https://iab.de/en/unit/?id=5](https://iab.de/en/unit/?id=5)) (INTER) department at the [Institute for Employment Research](https://iab.de/en/unit/?id=5) (IAB).
+Hi, I'm Felix. I am a PostDoc in the [Migration and International Labour Studies](https://iab.de/en/unit/?id=5](https://iab.de/en/unit/?id=5) (INTER) department at the [Institute for Employment Research](https://iab.de/en/unit/?id=5) (IAB).
 
 <p align="justify">
 My research interests are in labor and migration economics, with a focus on the labor market impact of immigration. I have also worked on topics related to development and behavioral economics.
