@@ -6,11 +6,13 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Policy"
+    url: /policy/ 
+
   - title: "CV"
     url: https://felixstips.github.io/files/cv.pdf
         
-  - title: "Policy"
-    url: /policy/
+
  
   # - title: "Publication"
  #   url: /publications/
