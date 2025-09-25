@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: https://felixstips.github.io/files/cv.pdf
         
- # - title: "Guide"
- #   url: /markdown/
+  - title: "Policy"
+    url: /policy/
  
   # - title: "Publication"
  #   url: /publications/
