@@ -1,6 +1,6 @@
 
 **Welche Kompetenzen bringen internationale Fachkräfte nach Deutschland?** 
-(with Julio Garbers and Christina Gathmann). 2025. Wirtschaftsdienst.<small>  [Link]([[https://doku.iab.de/forschungsbericht/2025/fb1825.pdf]) </small>
+(with Julio Garbers and Christina Gathmann). 2025. Wirtschaftsdienst.<small>  [Link](https://doku.iab.de/forschungsbericht/2025/fb1825.pdf) </small>
 
 <br/>
 
