@@ -16,4 +16,3 @@ author_profile: true
 (with Andreas Hauptmann). 2025. IAB Forschungsbericht.<small>  [Link](https://doku.iab.de/forschungsbericht/2025/fb1825.pdf) </small>
 <br/>
 
-
