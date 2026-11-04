@@ -8,12 +8,12 @@ author_profile: true
 # <center> Reports </center>
 
 **Trotz grundsätzlich hoher Bereitschaft: Nur ein kleiner Teil der Betriebe rekrutiert aus Drittstaaten** 
-(with Annette Jacoby). 2026. IAB Kurzbericht.<small>  [Link](DOI:10.48720/IAB.KB.2619) </small>
+(with Annette Jacoby). 2026. IAB Kurzbericht.<small>  [Link](https://doku.iab.de/kurzber/2026/kb2026-19.pdf) </small>
 
 <br/>
 
 **Bisher geringe Migration aus Iran – aber 28 Prozent der Iraner*innen mit Migrationsabsichten präferieren Deutschland als Zielland** 
-(with Herbert Brücker, Tanja Fendel, Maria Theresa Koch and Andreas Vortisch). 2026. IAB Kurzbericht.<small>  [Link](DOI:10.48720./IAB.FOO.20260619.01) </small>
+(with Herbert Brücker, Tanja Fendel, Maria Theresa Koch and Andreas Vortisch). 2026. IAB Forum.<small>  [Link](https://iab-forum.de/bisher-geringe-migration-aus-iran-aber-28-prozent-der-iranerinnen-mit-migrationsabsichten-praeferieren-deutschland-als-zielland/) </small>
 
 <br/>
 
