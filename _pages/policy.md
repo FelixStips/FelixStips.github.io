@@ -7,6 +7,11 @@ author_profile: true
 
 # <center> Reports </center>
 
+**Trotz grundsätzlich hoher Bereitschaft: Nur ein kleiner Teil der Betriebe rekrutiert aus Drittstaaten** 
+(with Annette Jacoby). 2026. IAB Kurzbericht.<small>  [Link](https://doku.iab.de/kurzber/2026/kb2026-19.pdf) </small>
+
+<br/>
+
 **Welche Kompetenzen bringen internationale Fachkräfte nach Deutschland?** 
 (with Julio Garbers and Christina Gathmann). 2025. Wirtschaftsdienst.<small>  [Link](https://FelixStips.github.io/files/wirtschaftsdienst.pdf) </small>
 
